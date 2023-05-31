@@ -8,3 +8,6 @@ ejecutar:
 -npm install fs
 -npm install cookie-parser
 -npm install express-session
+
+y para iniciar el programa en la direccion localhost:3000 (esa url en el navegador) se utiliza el siguiente comando
+node app.js
